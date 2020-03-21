@@ -1,11 +1,19 @@
 .container {
     max-width: 960px;
   }
-  
+ 
+.med-logo {
+  display: inline-block;
+}
 
 .logo {
   color: coral;
 }
+
+.pad {
+  margin: 0px;
+}
+
 
   /*
    * Custom translucent site header
