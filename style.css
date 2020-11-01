@@ -22,6 +22,19 @@ body {
 
 }
 
+.mid {
+  margin: 0 auto;
+  padding: 100px;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.bg-army {
+  background-color: #638d4a;
+}
+
 
   /*
    * Custom translucent site header
