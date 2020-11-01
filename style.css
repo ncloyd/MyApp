@@ -3,23 +3,20 @@ body {
   padding: 0;
 }
 
-.container {
+.contain {
     max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem!important;
   }
  
 .med-logo {
   display: inline-block;
 }
 
-.logo {
-  color: coral;
-}
-
 .pad {
   align-items: center;
   padding: 10px;
   margin: 0 auto;
-
 }
 
 .mid {
@@ -31,9 +28,18 @@ body {
   background-color: #000;
 }
 
-.bg-army {
-  background-color: #638d4a;
+.bg-sea {
+  background-color: #b1ddda;
 }
+
+.foot {
+  margin: 0 auto;
+}
+
+
+
+
+
 
 
   /*
