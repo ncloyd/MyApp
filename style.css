@@ -33,7 +33,7 @@ body {
 }
 
 .tiles {
-  width: 50px;
+  width: 100px;
   height: flex;
 }
 
@@ -50,7 +50,7 @@ body {
 .column {
   width: 260px;
   padding: 20px;
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 
